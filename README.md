@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Para saber mais sobre mim acesse minhas redes!!
  
 <div> 
   <a href="https://www.linkedin.com/in/miguel-dias-ferreira-313841268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
