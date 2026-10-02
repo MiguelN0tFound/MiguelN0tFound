@@ -6,17 +6,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelN0tFound&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelN0tFound/MiguelN0tFound/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelN0tFound/MiguelN0tFound/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/MiguelN0tFound/MiguelN0tFound/output/snake.svg">
+</picture>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelN0tFound/MiguelN0tFound/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelN0tFound/MiguelN0tFound/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/MiguelN0tFound/MiguelN0tFound/output/snake.svg">
-</picture>
  <br>
  
   ### Para saber mais sobre mim acesse minhas redes!!
